@@ -10,7 +10,7 @@ News_raw 데이터
 -> 뉴스 내용에 대한 키워드 추출 (keyBert 패키지 사용)
 
 Ticker 정보 데이터 수집  
--> yahoo finance
+-> yfinance 패키지 사용
 
 News_raw => WordNetLemmatizer 패키지 사용 ( 단복수 처리 )  
 -> 종목명의 대표 키워드  
