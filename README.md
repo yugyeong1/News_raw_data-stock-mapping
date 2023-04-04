@@ -24,7 +24,7 @@
 </br>
 
 ### 📈 Ticker 정보 데이터 수집  
-- yfinance 라이브러리 사용
+- yfinance 라이브러리를 이용하여 종목별 Ticker 정보 데이터 수집
 
 
 </br>
